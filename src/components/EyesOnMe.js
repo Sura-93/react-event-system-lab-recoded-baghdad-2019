@@ -5,7 +5,7 @@ class EyesOnMe extends Component {
     console.log("Hey! Eyes on me!");
   };
   handleFocus = () => {
-    console.log('Good!');
+    console.log("Good!");
   };
   render() {
     return (
